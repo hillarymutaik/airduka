@@ -26,16 +26,17 @@ Resources
 # Screenshots
 
 # Grid View page
-## Blue theme
-![alt text](/screenshots/grid_blue.jpeg)
-## Light theme
-![alt text](/screenshots/grid_light.jpg)
+## Blue & Blue theme
+![alt text](/screenshots/grid_blue.jpeg) | ![alt text](/screenshots/grid_light.jpg)
 
 # List View page
 ## Blue theme
-![alt text](/screenshots/list_blue1.jpeg)
-![alt text](/screenshots/list_blue2.jpeg)
+![alt text](/screenshots/list_blue1.jpeg) | ![alt text](/screenshots/list_blue2.jpeg)
 ## Light theme
-![alt text](/screenshots/list_light1.jpg)
-![alt text](/screenshots/list_light2.jpg)
+![alt text](/screenshots/list_light1.jpg) |![alt text](/screenshots/list_light2.jpg)
 
+# State management packages used
+
+1. Provider
+    
+2. InheritedWidget

@@ -22,9 +22,8 @@ dependencies:
   http: any
   flutter_screenutil: ^5.0.1
   font_awesome_flutter: ^10.1.0
-  flutter_rating_bar: ^4.0.1
   intl: ^0.17.0
-  animations: ^2.0.3
+  provider: ^6.0.5
 
 dev_dependencies:
   flutter_test:
