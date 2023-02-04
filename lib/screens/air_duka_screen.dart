@@ -29,8 +29,8 @@ class _AirdukaScreenState extends State<AirdukaScreen> {
   AnimationController? animationController;
   final ScrollController _scrollController = ScrollController();
 
-  DateTime startDate = DateTime.now();
-  DateTime endDate = DateTime.now().add(const Duration(days: 5));
+  // DateTime startDate = DateTime.now();
+  // DateTime endDate = DateTime.now().add(const Duration(days: 5));
 
   @override
   void initState() {
